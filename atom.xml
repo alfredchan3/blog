@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alfredchan3.github.io/blog</id>
-    <title>Gridea</title>
-    <updated>2019-10-10T05:56:06.443Z</updated>
+    <title>Alfred`s Blog</title>
+    <updated>2019-10-10T05:58:47.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alfredchan3.github.io/blog"/>
     <link rel="self" href="https://alfredchan3.github.io/blog/atom.xml"/>
     <subtitle>Hello</subtitle>
     <logo>https://alfredchan3.github.io/blog/images/avatar.png</logo>
     <icon>https://alfredchan3.github.io/blog/favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, Alfred`s Blog</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://alfredchan3.github.io/blog/post/hello-gridea</id>
